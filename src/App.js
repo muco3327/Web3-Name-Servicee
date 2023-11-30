@@ -14,7 +14,7 @@ const TWITTER_HANDLE = 'holyaustin';
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 const POLYGON_LINK = `https://polygon.technology/`;
 // Add the domain you will be minting
-const tld = '.web3';
+const tld = '.dym';
 const CONTRACT_ADDRESS = '0xae65F6e92c69dBE84B0884325596eCd4A54223BA';
 
 const App = () => {
